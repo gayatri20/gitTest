@@ -6,3 +6,7 @@ int main()
   value();
   return 0;
 }
+void value()
+{
+    printf("I'm in value funtion");
+}
